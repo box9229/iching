@@ -10,8 +10,7 @@ iching is a packge developed by Cheng-Jun Wang. It employs the method of Shicao 
 
 The Zhou yi provided a guide to cleromancy that used the stalks of the yarrow plant, but it is not known how the yarrow stalks became numbers, or how specific lines were chosen from the line readings. In the hexagrams, broken lines were used as shorthand for the numbers 6 (六) and 8 (八), and solid lines were shorthand for values of 7 (七) and 9 (九). The Great Commentary contains a late classic description of a process where various numerological operations are performed on a bundle of 50 stalks, leaving remainders of 6 to 9.
 
-大衍之数五十，其用四十有九。分而为二以象两，挂一以象三，揲之以四以象四时，归奇于扐以象闰。五岁再闰，故再扐而后挂。天一，地二；天三，地四；天五，地六；天七，地八；天九，地十。天数五，地数五。五位相得而各有合，天数二十有五，地数三十，凡天地之数五十有五，此所以成变化而行鬼神也。乾之策二百一十有六，坤之策百四十有四，凡三百六十，当期之日。二篇之策，万有一千五百二十，当万物之数也。是故四营而成《易》，十有八变而成卦，八卦而小成。引而伸之，触类而长之，天下之能事毕矣。显道神德行，是故可与酬酢，可与祐神矣。子曰：“知变化之道者，其知神之所为乎。”
-
+大衍之數五十，其用四十有九。分而為二以象兩，掛一以象三，揲之以四以象四時，歸奇於扐以象閏。五歲再閏，故再扐而後掛天一，地二;天三，地四;天五，地六;天七，地八;天九，地十天數五，地數五五位相得而各有合，天數二十有五，地數三十，凡天地之數五十有五，此所以成變化而行鬼神也。幹之策二百一十有六，坤之策百四十有四，凡三百六十，當期之日。二篇之策，萬有一千五百二十，當萬物之數也。是故四營而成“易”，十有八變而成卦，八卦。而小成引而伸之，觸類而長之，天下之能事畢矣顯道神德行，是故可與酬酢，可與佑神矣子曰：“知變化之道者，其知神之所為乎“。
 # Install
 ```python
 pip install iching
@@ -73,14 +72,15 @@ iching.ichingName(fixPred, changePred  )
 ```python
 iching.ichingText(fixPred, iching)
 ```
+	坎卦原文 坎 習坎，有孚，維心亨，行有尚
+	象曰：水洊至，習坎君子以常德行，習教事
+	白話文解釋 習坎卦：。抓獲俘虜，勸慰安撫他們，通泰途中將得到幫助
+	“象辭”說：。
+	坎為水，水長流不滯，是坎卦的卦象 君子觀此卦象，從而尊尚德行，取法於細水長流之象，學習教化人民的方法。
 
+“斷易天機”解坎卦坎上坎下，為坎宮本位卦。坎為陷入，陷阱，為險難之境。此時應堅持信心，才能豁然貫通。
 
-	坎卦原文坎。习坎，有孚，维心亨，行有尚。象曰：水洊至，习坎。君子以常德行，习教事。白话文解释习坎卦：抓获俘虏，劝慰安抚他们，通泰。途中将得到帮助。《象辞》说：坎为永，水长流不滞，是坎卦的卦象。君子观此卦象，从而尊尚德行，取法于细水长流之象，学习教化人民的方法。
-
-	《断易天机》解坎卦坎上坎下，为坎宫本位卦。坎为陷入、陷阱，为险难之境。此时应坚持信心，才能豁然贯通。
-
-	北宋易学家邵雍解艰难危险，重险重陷；事多困阻，谨慎行事。得此卦者，运气不佳，多难危险，事多困阻，宜谨言慎行，退守保安。
-
+北宋易學家邵雍解 艱難危險，重險重陷;事多困阻，謹慎行事得此卦者，運氣不佳，多難危險，事多困阻，宜謹言慎行，退守保安。
 
 
 ##### 4. Understand Three Changes
